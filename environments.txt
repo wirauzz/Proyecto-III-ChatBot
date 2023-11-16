@@ -1,0 +1,10 @@
+SPEECH_KEY=e80d6cd97c864c8eb2bf862de7808cf0
+SPEECH_REGION=eastus
+
+LANGUAGE_KEY=3f8a4265ff964335af270428241ae9da
+LANGUAGE_ENDPOINT=https://lenguage-service.cognitiveservices.azure.com/
+
+API_GOOGLE_KEY=AIzaSyBY-nocPQAB1mycm75SKITMG84d3YTqAHA
+
+CONTENT_SAFETY_KEY=d2ade0fe98ad4f7da1b7279ab8abe965
+CONTENT_SAFETY_ENDPOINT= https://safe-content-service.cognitiveservices.azure.com/
